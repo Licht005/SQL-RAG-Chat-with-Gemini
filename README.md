@@ -74,4 +74,3 @@ streamlit run app.py
 
 ---
 
-Would you like me to add a `requirements.txt` file content as well to make the setup even easier for your users?
