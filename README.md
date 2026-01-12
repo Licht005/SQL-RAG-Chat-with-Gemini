@@ -1,7 +1,3 @@
-Here is a clean, professional `README.md` file tailored for your project. I’ve organized it to highlight the features, setup, and the specific "RAG" (Retrieval-Augmented Generation) workflow your code uses.
-
----
-
 # SQL RAG Chat with Gemini
 
 A lightweight Streamlit application that allows users to chat with their SQLite databases using Natural Language. This app uses **Gemini 2.5 Flash** to translate user questions into SQL queries, execute them, and summarize the results back into plain English.
