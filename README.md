@@ -2,7 +2,7 @@
 
 A lightweight Streamlit application that allows users to chat with their SQLite databases using Natural Language. This app uses **Gemini 2.5 Flash** to translate user questions into SQL queries, execute them, and summarize the results back into plain English.
 
-## 🚀 Features
+## Features
 
 * **Natural Language to SQL**: No need to write complex queries; just ask questions like "Who are the top 5 customers by revenue?"
 * **Dynamic Schema Extraction**: Automatically reads your SQLite `.db` file to understand tables and columns.
